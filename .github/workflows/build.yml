@@ -32,4 +32,4 @@ jobs:
           name: sumatrapdf
           if-no-files-found: error
           path: |
-            ${{github.workspace}}/sumatrapdf/
+            ${{github.workspace}}
